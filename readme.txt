@@ -3,3 +3,4 @@ I began to use Git!
 This is an important skill for me!
 Git has a mutable index called stage.
 Git tracks changes of files.
+Created a new branch!
