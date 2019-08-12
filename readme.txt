@@ -3,4 +3,8 @@ I began to use Git!
 This is an important skill for me!
 Git has a mutable index called stage.
 Git tracks changes of files.
+<<<<<<< HEAD
 Creating a new branch is not easy.
+=======
+Creating a new branch is easy.
+>>>>>>> NewBranch
